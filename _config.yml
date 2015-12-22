@@ -1,0 +1,28 @@
+name: lyle
+favicon: null
+layout_spectrum: 0.38332893745973706
+typography_spectrum: 0.5125584402121603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.07890694076195359
+  lightness: 0.9410613283980638
+  saturation: 0.9254600331187248
+  rhythmicContrast: 0.9290441838093102
+purpose: []
